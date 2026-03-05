@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**cdrocks1117/cdrocks1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Chetan Naik** 👋  
+I'm a **Computer Science student at PES University** passionate about building scalable software and solving real-world problems using technology. I enjoy working on **backend systems, distributed systems, and full-stack applications**.
 
-Here are some ideas to get you started:
+🤝 I’m looking to collaborate on  
+- Open source projects  
+- Backend systems, DevOps tools, and real-time applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about  
+- Python, Flask, React, Node.js  
+- Docker, Kubernetes, Kafka  
+- Backend system design and APIs  
+
